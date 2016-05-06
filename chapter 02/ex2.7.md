@@ -1,0 +1,6 @@
+```c
+    const char *s = "abcdef";
+    show_bytes((byte_pointer) s, strlen(s));
+```
+
+输出 61 62 63 64 65 66
