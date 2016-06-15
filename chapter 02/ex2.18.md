@@ -1,0 +1,20 @@
+A. 0x1b8 = 440
+
+B. 0x14 = 20
+
+C. 0xfffffe58 = -424
+
+D. 0xfffffe74 = -396
+
+E. 0x44 = 68
+
+F. 0xfffffec8 = -312
+
+G. 0x10 => 16
+
+H. 0xc => 12
+
+I. 0xfffffeec => -276
+
+J. 0x20 = 32
+
